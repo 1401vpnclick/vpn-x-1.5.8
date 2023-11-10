@@ -1,1 +1,1 @@
-{"title":"کاربر گرامی","message":"اینفیلتر شکن دچار مشکل است لطفا ان را حذف کنید و از RUN VPN اسفاده کنید","dismissable":false,"dismissTxt":"رد","okTxt":"از تلگرام دانلود ","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
+{"title":"کاربر گرامی ","message":"هم اکنون فیلتر شکنی به نام Yara VPN در با قابلیت مود در دسترس است برای اتصال بهتر دانلود کنید ❤️⚡️","dismissable":false,"dismissTxt":"رد","okTxt":"دانلود از تلگرام","okUrl":"tg://resolve?domain=Vpn_Click","status":"ok"}
